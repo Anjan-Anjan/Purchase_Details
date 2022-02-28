@@ -1,11 +1,10 @@
-#TM06: purchase
+#Project: read purchase list from text file and calculate purchesed item, free item, discount price, total price etc.
 
 try:
     dic=dict()
     li=list()
-    x=input('Enter the file name: ')
-    f=open(x+'.txt')
-
+    x=input('Enter the file name: ')        #enter 'Purchase-1' as file name
+    f=open(x+'.txt')        
     pitem=0
     fitem=0
     pay=0
