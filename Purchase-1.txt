@@ -1,0 +1,7 @@
+chocolate 100
+cake 250
+baloon 60
+pizza 90
+sos free
+discount 50
+candle free
